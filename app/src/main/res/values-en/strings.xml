@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CuadradoNumero</string>
+    <string name="TITULO1">SQUARE</string>
+    <string name="PlaceHolderNumero">Give me a number</string>
+    <string name="btCalcular">Calculate the Square</string>
+    <string name="txResultado">0</string>
+    <string name="Imagen">Image</string>
+</resources>

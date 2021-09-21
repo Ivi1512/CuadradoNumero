@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CuadradoNumero</string>
+    <string name="TITULO1">CUADRADO</string>
+    <string name="PlaceHolderNumero">Dame un número</string>
+    <string name="btCalcular">Calcular el Cuadrado</string>
+    <string name="txResultado">0</string>
+    <string name="Imagen">Imagen</string>
+</resources>
